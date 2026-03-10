@@ -56,12 +56,13 @@ Submissions must be in English and in PDF format. At the time of submission, all
 # Workshop Program (TBD)
 
 
-# Program Committee (WIP)
+# Program Committee (Alphabetical order first name)
 
 - Prof. Dr. Adrian Ulges
 - Prof. Dr.-Ing. habil. Andreas Schmietendorf
 - Prof. Dr. Jens Heidrich
-- Prof. Dr. Stefan Wagner 
+- Prof. Dr. Martin Kowalczyk
+- Prof. Dr. Stefan Wagner
 - Viola Campos
 
 
