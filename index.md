@@ -45,13 +45,13 @@ Submissions must be in English and in PDF format. At the time of submission, all
 
 ## Important Dates:
 
-- Workshop papers submission 
-- Workshop papers notification 
-- Workshop papers camera-ready (hard) 
+- Workshop papers submission: 2026/05/31
+- Workshop papers notification: 2026/06/15 
+- Workshop papers camera-ready (hard): 2026/08/01
 
 ## Link to the submission system:
 
-
+[openreview](https://openreview.net/group?id=KI/2026/Workshop/AI4SE#tab-your-consoles)
 
 # Workshop Program (TBD)
 
