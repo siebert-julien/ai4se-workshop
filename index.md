@@ -6,11 +6,9 @@ This workshop is organized in the context of the [49th German Conference on Arti
 
 Artificial Intelligence (AI) is fundamentally transforming Software Engineering /(SE) practices, tools, and methodologies. From code generation and bug detection to requirements analysis and system maintenance, AI techniques are opening new possibilities while raising important questions about reliability, interpretability, and best practices. As both the AI and SE communities continue to evolve, there is a critical need for interdisciplinary dialogue that bridges these fields.
 
-This workshop aims to create a collaborative space where researchers from AI and SE can come together to share their work, exchange ideas, and collectively shape the future of Software Engineering in the age of Artificial Intelligence. We welcome diverse perspectives on how AI can enhance, augment, or transform SE activities, as well as critical discussions about challenges, limitations, and ethical considerations.
-
 ## Workshop Goals
 
-The workshop will provide a platform for participants to share their research, experiences, and insights on Artificial Intelligence methods and their applications in Software Engineering. It will also facilitate networking and collaboration opportunities, encouraging the development of a strong community that advances the state of the art in AI4SE through open discussion and knowledge exchange.
+This workshop aims to create a collaborative space where researchers from AI and SE can come together to share their work, exchange ideas, and collectively shape the future of Software Engineering in the age of Artificial Intelligence. We welcome diverse perspectives on how AI can enhance, augment, or transform SE activities, as well as critical discussions about challenges, limitations, and ethical considerations.
 
 # Call for Papers
 
