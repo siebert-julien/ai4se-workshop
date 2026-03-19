@@ -54,15 +54,14 @@ Submissions must be in English and in PDF format. At the time of submission, all
 # Workshop Program (TBD)
 
 
-# Program Committee (Alphabetical order first name)
+# Program Committee (Alphabetical order, name)
 
-- Prof. Dr. Adrian Ulges
-- Prof. Dr.-Ing. habil. Andreas Schmietendorf
-- Prof. Dr. Jens Heidrich
-- Prof. Dr. Martin Kowalczyk
-- Prof. Dr. Stefan Wagner
-- Viola Campos
-
+-	Viola Campos (RheinMain University of Applied Sciences, Germany) 
+-	Jens Heidrich (Mainz University of Applied Sciences, Germany) 
+-	Martin Kowalczyk (Mainz University of Applied Sciences, Germany) 
+-	Andreas Schmietendorf (Berlin School of Economics and Law, Germany) 
+-	Adrian Ulges (RheinMain University of Applied Sciences, Germany) 
+-	Stefan Wagner (Technischen Universität München, Germany) 
 
 # Organizers and contacts
 
