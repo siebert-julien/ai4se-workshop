@@ -59,7 +59,7 @@ Submissions must be in English and in PDF format. At the time of submission, all
 - **10:00–10:20** — Paper 3: Failure Localization for Enterprise Text-to-SQL Agents: Lessons from a Production-Representative Financial Case Study — Heeyong Eun (20 min)
 - **10:20–10:30** — Q&A (10 min)
 
-☕ **Coffee Break: 10:30–11:00**
+## Coffee Break: 10:30–11:00
 
 ## Second Session: 11:00–12:30
 
