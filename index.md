@@ -37,10 +37,6 @@ Submitted papers should present original, unpublished work relevant to one of th
 
 Submissions must be in English and in PDF format. At the time of submission, all papers must conform to the **KI 2026 format and submission guidelines** [see here](https://ki2026.gi.de/calls/call-for-papers).
 
-
-
-
-
 ## Important Dates:
 
 - Workshop papers submission: 2026/05/31
@@ -51,8 +47,27 @@ Submissions must be in English and in PDF format. At the time of submission, all
 
 [openreview](https://openreview.net/group?id=KI/2026/Workshop/AI4SE#tab-your-consoles)
 
-# Workshop Program (TBD)
+# Workshop Program 
 
+## First Session: 9:00–10:30
+
+- **9:00–9:10** — Introduction (10 min)
+- **9:10–9:30** — Paper 1: Memory-Aware Software Engineering Agents: Architectures, Mechanisms, and Open Gaps — Michael Banf (20 min)
+- **9:30–9:35** — Q&A (5 min)
+- **9:35–9:55** — Paper 4: DeepQuali: Initial results of a study on the use of large language models for assessing the quality of user stories — Adam Trendowicz (20 min)
+- **9:55–10:00** — Q&A (5 min)
+- **10:00–10:20** — Paper 3: Failure Localization for Enterprise Text-to-SQL Agents: Lessons from a Production-Representative Financial Case Study — Heeyong Eun (20 min)
+- **10:20–10:30** — Q&A (10 min)
+
+☕ **Coffee Break: 10:30–11:00**
+
+## Second Session: 11:00–12:30
+
+- **11:00–11:20** — Paper 2: Managing the Risks of Adopting the Model Context Protocol — Ben Rymar (20 min)
+- **11:20–11:25** — Q&A (5 min)
+- **11:25–11:45** — Paper 5: LLM-as-a-Judge for assessing maintainability. First results with a causal approach — Julien Siebert (20 min)
+- **11:45–11:50** — Q&A (5 min)
+- **11:50–12:30** — General Discussion / Wrap-up (40 min)
 
 # Program Committee (Alphabetical order, name)
 
